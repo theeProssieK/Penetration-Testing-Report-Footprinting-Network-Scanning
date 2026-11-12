@@ -282,7 +282,7 @@ In the scanning activity, I used Zenmap to identify my network configuration, di
 | Nslookup | ![nslookup](Screenshot%202026-11-11%20010244.png) |
 | Curl | ![curl](Screenshot%202026-11-11%20010722.png) |
 | Wafw00f | ![wafw00f](Screenshot%202026-11-11%20011106.png) |
-| DNSRecon | ![dnsrecon](screenshots/6_dnsrecon.png) |
+| DNSRecon | ![dnsrecon](Screenshot%202026-11-11%20011653.png) |
 | Zenmap scan | ![zenmap scan](screenshots/7_zenmap.png) |
 | Zenmap topology | ![zenmap topology](screenshots/8_zenmap_topology.png) |
 
