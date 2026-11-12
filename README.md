@@ -277,7 +277,7 @@ In the scanning activity, I used Zenmap to identify my network configuration, di
 
 | Tool | Evidence |
 | ---- | -------- |
-| WHOIS | ![whois](screenshots/1_whois.png) |
+| WHOIS |![whois](Screenshot%202026-11-11%20005632.png)|
 | WhatWeb | ![whatweb](screenshots/2_whatweb.png) |
 | Nslookup | ![nslookup](screenshots/3_nslookup.png) |
 | Curl | ![curl](screenshots/4_curl.png) |
