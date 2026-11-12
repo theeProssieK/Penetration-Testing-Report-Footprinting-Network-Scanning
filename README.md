@@ -61,7 +61,7 @@ This report covers two activities from my Cybersecurity internship program at Ne
 
 Together they show how an attacker moves from gathering public information about a target to mapping live hosts on a network.
 
-Footprinting was done from **Kali Linux** (running in VirtualBox) and all commands were passive or low-impact: they read public records and standard web responses. Scanning was done with **Zenmap** on `YOUR OS`. Every step below includes the command, the result I observed, and a screenshot as evidence.
+Footprinting was done from **Kali Linux** (running in VirtualBox) and all commands were passive or low-impact: they read public records and standard web responses. Scanning was done with **Zenmap** on Windows. Every step below includes the command, the result I observed, and a screenshot as evidence.
 
 ---
 
