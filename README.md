@@ -204,7 +204,7 @@ ipconfig
 
 **Step 2: Run a Ping Scan in Zenmap**
 
-- **Target:**192.168.x.x/x** 
+- Target:192.168.x.x/x 
 - **Profile:** Ping scan
 - **Equivalent command:**
 
@@ -273,7 +273,6 @@ In the scanning activity, I used Zenmap to identify my network configuration, di
 
 ## 🖼️ 8. Evidences Collected
 
-*Screenshots are stored in the [`screenshots/`](./screenshots) folder.*
 
 | Tool | Evidence |
 | ---- | -------- |
