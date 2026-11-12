@@ -279,7 +279,7 @@ In the scanning activity, I used Zenmap to identify my network configuration, di
 | ---- | -------- |
 | WHOIS |![whois](Screenshot%202026-11-11%20005632.png)|
 | WhatWeb | ![whatweb](Screenshot%202026-11-11%20010049.png) |
-| Nslookup | ![nslookup](screenshots/3_nslookup.png) |
+| Nslookup | ![nslookup](Screenshot%202026-11-11%20010244.png) |
 | Curl | ![curl](screenshots/4_curl.png) |
 | Wafw00f | ![wafw00f](screenshots/5_wafw00f.png) |
 | DNSRecon | ![dnsrecon](screenshots/6_dnsrecon.png) |
